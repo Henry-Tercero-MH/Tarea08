@@ -1,0 +1,2 @@
+Ventas: 
+Producto: pan dulce Cantidad: 15 PrecioUnitario: 2.0
